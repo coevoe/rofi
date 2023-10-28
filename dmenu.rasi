@@ -55,7 +55,7 @@ listview {
 }
 entry {
     expand:             false;
-    width:              20em;
+    width:              23em;
     text-color:         @white;
     padding:            4px;
     highlight:          none;
